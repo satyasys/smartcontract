@@ -1,6 +1,13 @@
+# smartcontract
+
+Compile smart contract
+Deploy to block chain
+
 truffle init
 
 truffle compile
+
+ganache-cli 
 
 truffle migrate --reset --compile-all
 
